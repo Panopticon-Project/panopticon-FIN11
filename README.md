@@ -11,3 +11,5 @@ https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/operation-
 https://research.nccgroup.com/2020/11/18/ta505-a-brief-history-of-their-time/
 
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clop-ransomware/
+
+https://www.securityweek.com/morgan-stanley-hit-accellion-hack-through-third-party-vendor
