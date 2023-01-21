@@ -15,3 +15,5 @@ https://www.mcafee.com/blogs/other-blogs/mcafee-labs/clop-ransomware/
 https://www.securityweek.com/morgan-stanley-hit-accellion-hack-through-third-party-vendor
 
 https://www.cyfirma.com/outofband/fin11-is-back-impersonates-popular-video-conference-application/
+
+https://www.kroll.com/en/insights/publications/cyber/threat-actors-google-ads-deploy-vidar-stealer
